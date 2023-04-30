@@ -1,4 +1,4 @@
-# Sunshine E-Commerce Website
+# LobberCart E-Commerce Website
 Welcome to An e-commerce website solely for a clothing brand
 
 
@@ -24,12 +24,12 @@ Shop page displaying products, with images and brief descriptions.
 
 ## How to Use
 
-To view the website, simply visit [Sunshine website](https://sunshineweb.vercel.app)
+To view the website, simply visit [LobberCart website](https://lobbercart.vercel.app)
 
 
 ## Contributing
 
-I welcome contributions to Sunshine E-Commerce website. If you notice any bugs or have suggestions for improvements, please feel free to open an issue or pull request on GitHub.
+I welcome contributions to LobberCart E-Commerce website. If you notice any bugs or have suggestions for improvements, please feel free to open an issue or pull request on GitHub.
 
 
 ## Contact
